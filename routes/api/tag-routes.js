@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const { triggerAsyncId } = require("async_hooks");
 const { Tag, Product, ProductTag } = require("../../models");
 
 // The `/api/tags` endpoint
