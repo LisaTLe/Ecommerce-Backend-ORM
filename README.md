@@ -21,10 +21,12 @@ Given a functional Express.js API, the user will be able to create a database an
 
 ## Demo
 
-[Demo Video](https://drive.google.com/file/d/1K7Idivyaf-3K8hVgCCMaYWtMzodgmy5M/view)
-[Gif](./assets/demo.gif)
+![Demo Video](https://drive.google.com/file/d/1K7Idivyaf-3K8hVgCCMaYWtMzodgmy5M/view)
+
+![Gif](./assets/demo.gif)
 
 ## Screenshots
 
-[screenshot1](./assets/images/Capture.PNG)
-[screenshot2](./assets/images/Capture1.PNG)
+![screenshot1](./assets/images/Capture.PNG)
+
+![screenshot2](./assets/images/Capture1.PNG)
